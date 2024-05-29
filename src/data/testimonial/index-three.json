@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5",
+    "name": "Jacob William",
+    "type": "Manager",
+    "img": "1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea commodo."
+  },
+  {
+    "id": "2",
+    "name": "Ethan James",
+    "type": "Admin",
+    "img": "2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea commodo."
+  },
+  {
+    "id": "3",
+    "name": "Noah Alexander",
+    "type": "Professor",
+    "img": "3.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea commodo."
+  },
+  {
+    "id": "4",
+    "name": "Liam Mason",
+    "type": "Officer",
+    "img": "4.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea commodo."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "Find Your Dream House By Us",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "61.jpg",
+    "id": "1",
+    "buttonText": "Make An Enquiry",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "The Right Place of House Finding",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "62.jpg",
+    "id": "2",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "Search and Find Luxury House",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "62.jpg",
+    "id": "3",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "Find Your Dream House By Us",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "61.jpg",
+    "id": "4",
+    "buttonText": "Make An Enquiry",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  }
+]

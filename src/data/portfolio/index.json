@@ -1,0 +1,494 @@
+[
+  {
+    "title": "Buy a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "1.jpg",
+    "img": "1.jpg",
+    "id": "01",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Houses",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Rent a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "2.jpg",
+    "img": "2.jpg",
+    "id": "02",
+    "carousel": false,
+    "active": true,
+    "category": ["buying", "rent"],
+    "filter":"Retail",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sell a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "3.jpg",
+    "img": "3.jpg",
+    "id": "03",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Houses",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sell a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "4.jpg",
+    "img": "4.jpg",
+    "id": "04",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Retail",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sell a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "2.jpg",
+    "img": "2.jpg",
+    "id": "05",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Retail",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Buy a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "6.jpg",
+    "img": "6.jpg",
+    "id": "06",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Retail",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sell a home",
+    "designation": "Web Design & Development, Branding",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "7.jpg",
+    "img": "7.jpg",
+    "id": "07",
+    "carousel": false,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Condos",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "WeHeart of NYC",
+    "designation": "Manhattan",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "8.jpg",
+    "img": "8.jpg",
+    "id": "08",
+    "carousel": true,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Condos",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "The luxury crib",
+    "designation": "Upper East Side",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "9.jpg",
+    "img": "9.jpg",
+    "id": "09",
+    "carousel": true,
+    "active": true,
+    "category": ["buying", "rent"],
+    "filter":"Houses",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "The Best City",
+    "designation": "Jersey City",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "10.jpg",
+    "img": "10.jpg",
+    "id": "10",
+    "carousel": true,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Condos",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Friendly neighborhood",
+    "designation": "Queens",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "11.jpg",
+    "img": "11.jpg",
+    "id": "11",
+    "carousel": true,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Houses",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  },
+  {
+    "title": "The perfect city",
+    "designation": "Greenville",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "12.jpg",
+    "img": "12.jpg",
+    "id": "12",
+    "carousel": true,
+    "active": false,
+    "category": ["buying", "rent"],
+    "filter":"Condos",
+    "featured": true,
+    "reviews": [
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      {
+        "author": {
+          "productImage": "7.jpg",
+          "name": "Jacob William",
+          "designation": "Founder, Browni Co.",
+          "img": "1.jpg",
+          "description": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      }
+    ]
+  }
+]

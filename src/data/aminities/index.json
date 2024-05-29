@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "title": "Parking Space",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-car"
+  },
+  {
+    "id": "02",
+    "title": "Swimming Pool",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-swimming"
+  },
+  {
+    "id": "03",
+    "title": "Private Security",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-secure-shield"
+  },
+  {
+    "id": "04",
+    "title": "Medical Center",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-stethoscope"
+  },
+  {
+    "id": "05",
+    "title": "Library Area",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-book"
+  },
+  {
+    "id": "06",
+    "title": "King Size Beds",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-bed-1"
+  },
+  {
+    "id": "07",
+    "title": "Smart Homes",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-home-2"
+  },
+  {
+    "id": "08",
+    "title": "Kid’s Playland",
+    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "icon": "flaticon-slider"
+  }
+]

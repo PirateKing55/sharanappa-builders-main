@@ -1,0 +1,26 @@
+[
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "Build Your Dream House With Us",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "61.jpg",
+    "id": "01",
+    "buttonText": "Download Brochure",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Constructor Agency",
+    "Title": "The Right Place for Construction Services",
+    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "icon": "FaHome",
+    "heroimage": "62.jpg",
+    "id": "02",
+    "buttonText": "Download Brochure",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": true
+  }
+]
