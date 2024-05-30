@@ -10,6 +10,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import clsx from "clsx";
 import { FaCartArrowDown, FaRegUser, FaSearch, FaTimes } from "react-icons/fa";
+import { BsBuildings } from "react-icons/bs";
 import MenuList from "@/components/header/elements/menuList";
 const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
   const [searchFormOpener, searchFormOpenerSet] = useState(false);
@@ -101,8 +102,28 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
               <Col>
                 <div className="site-logo-wrap">
                   <div className="site-logo">
-                    <Link href="/">
-                      <img src="/img/logo.png" alt="Logo" />
+                    <Link
+                      style={{
+                        display: "flex",
+                        gap: "10px",
+                        justifyContent: "center",
+                        alignItems: "center",
+                      }}
+                      href="/">
+                      <span style={{ color: "#ff5a3c" }}><BsBuildings size={55} /></span>
+                      <div style={{
+                        color: "#0a2c3d",
+                        display: "flex",
+                        flexDirection: "column",
+                        justifyContent: "center",
+                        alignItems: "start",
+                        gap: "0",
+                        fontWeight: "bolder",
+                      }}>
+                        <span style={{ height: "35px" }}>Sharanappa</span>
+                        <span>Builders</span>
+                      </div>
+
                     </Link>
                   </div>
                 </div>
@@ -120,9 +141,8 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                 {/* <!-- header-search-1 --> */}
                 <div className="header-search-wrap">
                   <div
-                    className={`header-search-1 ${
-                      searchFormOpener ? "search-open" : ""
-                    }`}
+                    className={`header-search-1 ${searchFormOpener ? "search-open" : ""
+                      }`}
                   >
                     {/* search-open */}
                     <div className="search-icon">
@@ -135,9 +155,8 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                     </div>
                   </div>
                   <div
-                    className={`header-search-1-form ${
-                      searchFormOpener ? "search-open" : ""
-                    }`}
+                    className={`header-search-1-form ${searchFormOpener ? "search-open" : ""
+                      }`}
                   >
                     <form id="#" method="get" action="#">
                       <input
@@ -199,9 +218,8 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                 <div className="mini-cart-icon">
                   <button
                     onClick={cartMenu}
-                    className={`ltn__utilize-toggle ${
-                      cartMenuOpener ? "close" : ""
-                    }`}
+                    className={`ltn__utilize-toggle ${cartMenuOpener ? "close" : ""
+                      }`}
                   >
                     <FaCartArrowDown />
                     {/* <sup>6</sup> */}
@@ -218,9 +236,8 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                 <div className="mobile-menu-toggle d-xl-none">
                   <button
                     onClick={offcanVasToggler}
-                    className={`ltn__utilize-toggle ${
-                      offCanVastoggleBtn ? "close" : ""
-                    }`}
+                    className={`ltn__utilize-toggle ${offCanVastoggleBtn ? "close" : ""
+                      }`}
                   >
                     <svg viewBox="0 0 800 600">
                       <path

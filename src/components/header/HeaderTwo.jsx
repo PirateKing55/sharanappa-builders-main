@@ -93,9 +93,8 @@ const HeaderStyleTwo = function ({ SetToggleClassName, topbar }) {
                 <div className="mobile-menu-toggle d-xl-none">
                   <button
                     onClick={offcanVasToggler}
-                    className={`ltn__utilize-toggle ${
-                      offCanVastoggleBtn ? "close" : ""
-                    }`}
+                    className={`ltn__utilize-toggle ${offCanVastoggleBtn ? "close" : ""
+                      }`}
                   >
                     <svg viewBox="0 0 800 600">
                       <path
