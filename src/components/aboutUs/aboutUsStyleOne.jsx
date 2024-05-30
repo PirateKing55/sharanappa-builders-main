@@ -43,7 +43,7 @@ function AboutUsStyleOne({ sectionSpace }) {
                     About Us
                   </h6>
                   <h1 className="section-title">
-                    The Leading Real Constructor agency<span>.</span>
+                    The Leading Constructor agency<span>.</span>
                   </h1>
                   <p>
                     Over 39,000 people work for us in more than 70 countries all
